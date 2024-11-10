@@ -1,0 +1,12 @@
+.grid-container{
+    margin:50px;
+    display: grid;
+    justify-self: center;
+    border:solid 1px rgba(0,0,0,0.1);
+}
+
+.grid-container div{
+    padding:20px;
+    border:solid 1px grey;
+    cursor: pointer;
+}
